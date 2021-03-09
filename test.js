@@ -7,4 +7,7 @@ class Test {
   add() {
     return this.a + this.b;
   }
+  sub() {
+    return this.a + this.b;
+  }
 }
