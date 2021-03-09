@@ -13,4 +13,7 @@ class Test {
   mul() {
     return this.a * this.b;
   }
+  div() {
+    return this.a / this.b;
+  }
 }
